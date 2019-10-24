@@ -1,0 +1,22 @@
+Matches  kaze angle 10 514 869 0.5914844649021864 
+Matches  orb angle 10 349 500 0.698 
+Matches  kaze angle 30 428 869 0.49252013808975836 
+Matches  orb angle 30 319 500 0.638 
+Matches  kaze angle 60 431 869 0.49597238204833144 
+Matches  orb angle 60 310 500 0.62 
+Matches  kaze angle 90 602 869 0.6927502876869965 
+Matches  orb angle 90 371 500 0.742 
+Matches  kaze angle 180 614 869 0.7065592635212888 
+Matches  orb angle 180 397 500 0.794 
+
+
+Matches  kaze angle 10 514 869 0.5914844649021864  Distance average 0.0  Distance average dist 0.13722010190845085
+Matches  orb angle 10 349 500 0.698 			   Distance average 0.0  Distance average dist 22.84813753581662
+Matches  kaze angle 30 428 869 0.49252013808975836 Distance average 0.0  Distance average dist 0.15049813720114774
+Matches  orb angle 30 319 500 0.638 			   Distance average 0.0  Distance average dist 23.75862068965517
+Matches  kaze angle 60 431 869 0.49597238204833144 Distance average 0.0  Distance average dist 0.14529740206115035
+Matches  orb angle 60 310 500 0.62 				   Distance average 0.0  Distance average dist 23.45806451612903
+Matches  kaze angle 90 602 869 0.6927502876869965  Distance average 0.0  Distance average dist 0.11263004069774357
+Matches  orb angle 90 371 500 0.742 			   Distance average 0.0  Distance average dist 16.51752021563342
+Matches  kaze angle 180 614 869 0.7065592635212888 Distance average 0.0  Distance average dist 0.06221653676244458
+Matches  orb angle 180 397 500 0.794 			   Distance average 0.0  Distance average dist 14.826196473551637
